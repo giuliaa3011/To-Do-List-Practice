@@ -3,7 +3,8 @@
 # TO-DO LIST Project 📝
 
 Project for practicing a To-do List, created using HTML, JavaScript, and CSS.
-It can be used as a inspiration or a basis for other productivity projects on
+It can be used as a inspiration or a basis for other productivity projects.
+Ideal for those who want study FrontEnd concepts.
 
 ## OnLine Demonstration
 
